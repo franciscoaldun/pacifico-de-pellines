@@ -1,0 +1,13 @@
+# lo que arma el compilador
+*.exe
+*.o
+
+# lo que el programa guarda o baja mientras corre
+estado_mar.bin
+mareas_shoa.txt
+registro.txt
+
+# las salidas de las pruebas
+prueba_*.txt
+*.wav
+*.bmp
